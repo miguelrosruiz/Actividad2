@@ -1,9 +1,16 @@
-body{
-
-		background-color:red;
-}	
+body {
+background-color: red;
+}
 
 header{
-	
-		background-color:blue;
+background-color: blue;
 }
+
+h1{
+	
+	background-color: green;
+}
+
+Fotter{
+	background-color: gray;
+}	
